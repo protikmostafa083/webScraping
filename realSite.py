@@ -31,6 +31,6 @@ if __name__ =='__main__':
     while True:
         find_jobs()
         #to execute the code in every 12 hours
-        #time_wait = 10*6*12
-        #print(f'Waiting {time_wait} Minutes')
-        #time.sleep(time_wait*60)
+        time_wait = 10*6*12
+        print(f'Waiting {time_wait} Minutes')
+        time.sleep(time_wait*60)
