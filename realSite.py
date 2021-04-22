@@ -23,7 +23,7 @@ def find_jobs():
                 with open(f'posts/{index}.txt', 'w')as f:
 
             #strip allows us to remove the empty space from a string
-                    f.write(f"Company Name: {company_name.strip() \n")
+                    f.write(f"Company Name: {company_name.strip()} \n")
                     f.write(f"Required Skill: {skills.strip()} \n")
                     f.write(f"More Info: {more_info}\n")
                 print(f'file saved for {index} iteration')
