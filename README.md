@@ -5,7 +5,7 @@ We need web scrapping for
 1. Scraping stock prices
 2. Scraping YellowPages Data
 3. Scraping store location
-4. 4. Scraping Ecommerce sites
+4. Scraping Ecommerce sites
 5. Scraping sports statistics
 6. Or competitor analysis
 
