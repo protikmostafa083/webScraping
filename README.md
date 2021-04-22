@@ -1,4 +1,4 @@
-# webScrapper
+# webScraping
 Web Scrapper is a way to collect data from websites. It comes in handy in many different situations. It can be a tidious job if we want to mark down or extract some information from the web and write it down on a file. This is the situation where web scrapping can help.
 
 We need web scrapping for
